@@ -58,7 +58,7 @@ Ofrecemos asesoramiento y servicios personalizados para pequeñas y medianas emp
 
   <section class="contact">
     <h2>Contacto</h2>
-    <p>Teléfono: <a href="tel:+34603481796">+34 603481796</a></p>
+    <p>Teléfono: <a href="tel:+34603481796">+34603481796</a></p>
     <p>Email: <a href="mailto:sergiolaraderecho@gmail.com">s</a></p>
     <a href="tel:+34603481796">Llámanos ahora</a>
   </section>
